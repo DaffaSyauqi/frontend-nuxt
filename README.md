@@ -21,7 +21,7 @@ git clone https://github.com/DaffaSyauqi/frontend-nuxt.git
 cd frontend-nuxt
 
 # 2. Install dependencies
-# pnpm install
+pnpm install
 
 # 3. Jalankan development server
 pnpm run dev
