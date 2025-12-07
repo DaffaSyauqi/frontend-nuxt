@@ -4,7 +4,7 @@ Ini adalah repository frontend untuk proyek **UMKM-Tool**
 
 ---
 
-## 🧩 Technologies Used
+## 🧩 Teknologi yang digunakan
 - [Nuxt 4](https://nuxt.com)
 - [Vue](https://vuejs.org/)
 - [TailwindCSS](https://ui.nuxt.com/)
