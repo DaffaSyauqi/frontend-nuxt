@@ -2,11 +2,14 @@
   <div class="max-w-2xl w-full text-center">
     <h2 class="text-3xl font-bold mb-6">Hasil Perhitungan</h2>
 
-    <div v-if="errorMsg" class="text-left bg-neutral-900 p-6 rounded-xl">
+    <div v-if="errorMsg" class="text-left bg-neutral p-6 rounded-xl">
       <p class="text-red-500">{{ errorMsg }}</p>
     </div>
 
-    <div v-else-if="result" class="text-left bg-neutral-900 p-6 rounded-xl">
+    <div
+      v-else-if="result"
+      class="text-left bg-neutral border border-neutral/20 p-6 rounded-xl"
+    >
       <p><strong>Nama Produk:</strong> {{ result.product_name }}</p>
 
       <p>

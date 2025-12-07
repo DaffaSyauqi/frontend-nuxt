@@ -27,7 +27,7 @@ features:
       description: Masukan nama makanan, Masukan jumlah bahan, Hasil prediksi.
       icon: i-lucide-list
     - title: Cepat
-      description: Tidak perlu menunggu waktu lama untuk generate hasi.
+      description: Tidak perlu menunggu waktu lama untuk generate hasil.
       icon: i-lucide-fast-forward
     - title: Sangat Mudah Disesuaikan
       description: Sesuaikan tampilan, warna, dan elemen UI menggunakan Nuxt UI dan Tailwind.
