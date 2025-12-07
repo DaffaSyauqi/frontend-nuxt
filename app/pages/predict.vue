@@ -90,11 +90,14 @@ async function goToStep3() {
       })),
     };
 
-    const res: any = await $fetch("http://127.0.0.1:8000/api/v1/predict", {
-      method: "POST",
-      body,
-      headers: { "Content-Type": "application/json" },
-    });
+    const res: any = await $fetch(
+      "https://backend-python-production-4108.up.railway.app/api/v1/predict",
+      {
+        method: "POST",
+        body,
+        headers: { "Content-Type": "application/json" },
+      },
+    );
 
     result.value = res.result;
     step.value = 2;
