@@ -1,0 +1,60 @@
+title: Prediksi Hasil Makanan Anda Secara [Instan]{.text-primary}
+description: Masukkan bahan dan jumlahnya, dan AI kami menghitung hasil akhir dari hidangan Anda — tanpa batas, untuk resep apa pun.
+navigation: false
+
+hero:
+  links:
+    - label: Mulai Sekarang
+      icon: i-lucide-arrow-right
+      trailing: true
+      to: "/predict"
+      size: xl
+
+features:
+  title: Semua yang Anda Butuhkan untuk Memprediksi Hasil Masakan
+  description: Alur kerja yang dibuat untuk pembuat resep, UMKM makanan, dan siapa pun yang membutuhkan prediksi produksi secara akurat.
+  items:
+    - title: Resep Tanpa Batas
+      description: Masukkan nama hidangan apa saja tanpa batasan menu bawaan.
+      icon: i-lucide-palette
+    - title: Tabel Bahan Cerdas
+      description: Input bahan dalam bentuk tabel terstruktur untuk perhitungan yang lebih presisi.
+      icon: i-lucide-table
+    - title: Prediksi Hasil yang Akurat
+      description: AI memprediksi berat akhir, jumlah porsi, dan total hasil produksi.
+      icon: i-lucide-calculator
+    - title: Only 3 Step
+      description: Masukan nama makanan, Masukan jumlah bahan, Hasil prediksi.
+      icon: i-lucide-list
+    - title: Cepat
+      description: Tidak perlu menunggu waktu lama untuk generate hasi.
+      icon: i-lucide-fast-forward
+    - title: Sangat Mudah Disesuaikan
+      description: Sesuaikan tampilan, warna, dan elemen UI menggunakan Nuxt UI dan Tailwind.
+      icon: i-lucide-settings
+
+faq:
+  title: Frequently Asked Questions
+  description: Jawaban untuk membantu pelaku usaha makanan dalam merencanakan produksi.
+  items:
+    - label: Apakah saya bisa memasukkan jenis hidangan apa saja?
+      content: Ya. Anda dapat memasukkan nama resep apa pun dan menambahkan bahan sesuai kebutuhan tanpa batasan.
+    - label: Seberapa akurat prediksinya?
+      content: Prediksi AI mengikuti jumlah bahan yang Anda masukkan dan pola perubahan umum dalam proses memasak.
+    - label: Apakah saya perlu pengetahuan teknis?
+      content: Tidak. Antarmuka dirancang sederhana, intuitif, dan ramah pemula.
+    - label: Apakah layanan ini gratis?
+      content: Ya. Anda bisa menggunakan secara 100% Gratisss.
+
+cta:
+  title: Siap memprediksi hidangan Anda berikutnya?
+  description: Mulai buat estimasi produksi makanan secara akurat hanya dalam hitungan menit. Tanpa batas, untuk resep apa pun.
+  links:
+    - label: Mulai Prediksi
+      to: "/predict"
+      trailingIcon: i-lucide-arrow-right
+    - label: Lihat di GitHub
+      to: "https://github.com/nuxt-ui-templates/saas"
+      target: _blank
+      variant: subtle
+      icon: i-simple-icons-github
