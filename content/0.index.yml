@@ -54,7 +54,7 @@ cta:
       to: "/predict"
       trailingIcon: i-lucide-arrow-right
     - label: Lihat di GitHub
-      to: "https://github.com/nuxt-ui-templates/saas"
+      to: "https://github.com/UMKM-Tool"
       target: _blank
       variant: subtle
       icon: i-simple-icons-github
