@@ -1,6 +1,6 @@
 # UMKM-Tool
 
-Ini adalah repository frontend untuk proyek **UMKM-Tool**
+Ini adalah repository frontend untuk proyek **UMKM-Tool**,
 Untuk informasi selanjutnya ada di [repo utama](https://github.com/UMKM-Tool/umkm-tool)
 
 ---
